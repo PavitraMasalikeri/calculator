@@ -2,6 +2,12 @@
 
 A simple and interactive calculator built using HTML, CSS, and JavaScript.
 
+## 📸 Screenshot
+
+![Calculator Screenshot](calculator-screenshot.png)
+
+## ✨ Features
+
 ## ✨ Features
 
 - Addition
